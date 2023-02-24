@@ -27,8 +27,7 @@ padding-bottom: 20px;
 .salam h1{
 font-weight: bold;
 }
-.kenalan{
-}
+
 .desc{
 background-image: url(../src/img/bg/PATTERN.png);
 height: fit-content;
@@ -47,7 +46,6 @@ height: fit-content;
 }
 .desc .sosmed img{
     width: 50px;
-    text-align: center;
     transition: .5s;
 }
 .desc .sosmed img:hover{
